@@ -1,0 +1,13 @@
+.counter-box{
+    height: 50vh;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Hero {
+    background-color: rebeccapurple;
+}
+.hero{
+    background-color: red;
+}
